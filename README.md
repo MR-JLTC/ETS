@@ -4,6 +4,7 @@ EXPENSE TRACKER SYSTEM
 
 ## Description
  - track and record personal expenses
+ - utilizes file handling techniques to store data in a text file
 -----------------------------------
 ## Note 
 This is not yet fully implemented, theres still bugs that need to be fixed
