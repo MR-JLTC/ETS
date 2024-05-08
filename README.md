@@ -7,8 +7,8 @@ EXPENSE TRACKER SYSTEM
  - utilizes file handling techniques to store data in a text file
 -----------------------------------
 ## Note 
-This is not yet fully implemented, theres still bugs that need to be fixed
-Planning to reimplement the system and use database technologies for better data handling
+- This is not yet fully implemented, theres still bugs that need to be fixed
+- Planning to reimplement the system and use database technologies for better data handling
 -----------------------------------
 ## INSTALLATION PROCESS
 To install the `ETS` program, follow these steps:
