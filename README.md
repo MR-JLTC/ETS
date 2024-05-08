@@ -8,7 +8,7 @@ EXPENSE TRACKER SYSTEM
 -----------------------------------
 ## Note 
 This is not yet fully implemented, theres still bugs that need to be fixed
-
+Planning to reimplement the system and use database technologies for better data handling
 -----------------------------------
 ## INSTALLATION PROCESS
 To install the `ETS` program, follow these steps:
